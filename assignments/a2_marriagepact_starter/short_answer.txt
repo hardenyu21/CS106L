@@ -1,0 +1,13 @@
+TODO: Delete this line and answer the short questions in the assignment within this file!
+1. Ordered set requires a comparison operator and unordered set requires a hash function; 
+
+An unordered set is more fast to search, insert and delete, but in worst-case, it may ave a higher worst-case time complexity due to hash collisions;
+
+A possible hash function: (sueduo code)
+for(c: student){
+    hash = hash * k + c   
+}
+
+2.
+
+3.
